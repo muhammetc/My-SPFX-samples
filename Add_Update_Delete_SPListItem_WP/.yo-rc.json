@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.9.1",
+    "libraryName": "add-update-delete-sp-list-item-wp",
+    "libraryId": "7ce33ff0-ef69-4246-957e-5faae155f20f",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

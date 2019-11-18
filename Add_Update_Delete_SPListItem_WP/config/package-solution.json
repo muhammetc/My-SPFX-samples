@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "add-update-delete-sp-list-item-wp-client-side-solution",
+    "id": "7ce33ff0-ef69-4246-957e-5faae155f20f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/add-update-delete-sp-list-item-wp.sppkg"
+  }
+}

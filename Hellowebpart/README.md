@@ -1,3 +1,9 @@
+
+Bu solution da 2 tane webpart vardır. Hello SPFX webpartı basit Webpart property alanlarının örnekleri vardır. pnp-CustomField Webpartı https://sharepoint.github.io/sp-dev-fx-property-controls/ sitesindeki bazı alanların örneklerini içerir.
+
+
+
+
 ## helloworld-webpart
 
 This is where you include your WebPart documentation.

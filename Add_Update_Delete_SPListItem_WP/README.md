@@ -1,3 +1,7 @@
+React JS ile yapılmıştır.
+
+
+
 ## add-update-delete-sp-list-item-wp
 
 This is where you include your WebPart documentation.

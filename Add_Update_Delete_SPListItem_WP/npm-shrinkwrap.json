@@ -402,6 +402,13 @@
         "react": "15.6.2",
         "react-dom": "15.6.2",
         "tslib": "~1.8.0"
+      },
+      "dependencies": {
+        "@types/react": {
+          "version": "15.6.6",
+          "resolved": "https://registry.npmjs.org/@types/react/-/react-15.6.6.tgz",
+          "integrity": "sha512-a45hjEjpRira6tJM8E2/aGDqqNx9/PhtQ4GxEg7MsslTuAKdweWLH0oE2K0dgMFdzw9E2yRB6jqrA8IKXaevwQ=="
+        }
       }
     },
     "@microsoft/package-deps-hash": {
@@ -946,6 +953,21 @@
         "react": "15.6.2",
         "react-dom": "15.6.2",
         "requirejs": "2.1.20"
+      },
+      "dependencies": {
+        "@types/react": {
+          "version": "15.6.6",
+          "resolved": "https://registry.npmjs.org/@types/react/-/react-15.6.6.tgz",
+          "integrity": "sha512-a45hjEjpRira6tJM8E2/aGDqqNx9/PhtQ4GxEg7MsslTuAKdweWLH0oE2K0dgMFdzw9E2yRB6jqrA8IKXaevwQ=="
+        },
+        "@types/react-dom": {
+          "version": "15.5.6",
+          "resolved": "https://registry.npmjs.org/@types/react-dom/-/react-dom-15.5.6.tgz",
+          "integrity": "sha512-dP4vEDEH4rL+uUl6f//c6mjepTVdJ6Ldx3z0dZbw047T5Z+o2PZDW/Qd+I4PkTmIgk7YNAZC/TFnm3IHT5UAhw==",
+          "requires": {
+            "@types/react": "^15"
+          }
+        }
       }
     },
     "@microsoft/sp-lodash-subset": {
@@ -1084,6 +1106,21 @@
         "react-dom": "15.6.2",
         "scrollreveal": "3.3.6",
         "tslib": "~1.8.0"
+      },
+      "dependencies": {
+        "@types/react": {
+          "version": "15.6.6",
+          "resolved": "https://registry.npmjs.org/@types/react/-/react-15.6.6.tgz",
+          "integrity": "sha512-a45hjEjpRira6tJM8E2/aGDqqNx9/PhtQ4GxEg7MsslTuAKdweWLH0oE2K0dgMFdzw9E2yRB6jqrA8IKXaevwQ=="
+        },
+        "@types/react-dom": {
+          "version": "15.5.6",
+          "resolved": "https://registry.npmjs.org/@types/react-dom/-/react-dom-15.5.6.tgz",
+          "integrity": "sha512-dP4vEDEH4rL+uUl6f//c6mjepTVdJ6Ldx3z0dZbw047T5Z+o2PZDW/Qd+I4PkTmIgk7YNAZC/TFnm3IHT5UAhw==",
+          "requires": {
+            "@types/react": "^15"
+          }
+        }
       }
     },
     "@microsoft/sp-webpart-workbench": {
@@ -1112,6 +1149,23 @@
         "react": "15.6.2",
         "react-dom": "15.6.2",
         "tslib": "~1.8.0"
+      },
+      "dependencies": {
+        "@types/react": {
+          "version": "15.6.6",
+          "resolved": "https://registry.npmjs.org/@types/react/-/react-15.6.6.tgz",
+          "integrity": "sha512-a45hjEjpRira6tJM8E2/aGDqqNx9/PhtQ4GxEg7MsslTuAKdweWLH0oE2K0dgMFdzw9E2yRB6jqrA8IKXaevwQ==",
+          "dev": true
+        },
+        "@types/react-dom": {
+          "version": "15.5.6",
+          "resolved": "https://registry.npmjs.org/@types/react-dom/-/react-dom-15.5.6.tgz",
+          "integrity": "sha512-dP4vEDEH4rL+uUl6f//c6mjepTVdJ6Ldx3z0dZbw047T5Z+o2PZDW/Qd+I4PkTmIgk7YNAZC/TFnm3IHT5UAhw==",
+          "dev": true,
+          "requires": {
+            "@types/react": "^15"
+          }
+        }
       }
     },
     "@microsoft/stream-collator": {
@@ -1533,16 +1587,20 @@
       "dev": true
     },
     "@types/react": {
-      "version": "15.6.6",
-      "resolved": "https://registry.npmjs.org/@types/react/-/react-15.6.6.tgz",
-      "integrity": "sha512-a45hjEjpRira6tJM8E2/aGDqqNx9/PhtQ4GxEg7MsslTuAKdweWLH0oE2K0dgMFdzw9E2yRB6jqrA8IKXaevwQ=="
+      "version": "16.4.7",
+      "resolved": "https://registry.npmjs.org/@types/react/-/react-16.4.7.tgz",
+      "integrity": "sha512-tHpSs7HMyjnpyfzka1G0pYh7rBNdpwGgcIDT4vfV6jUaR69yOHo/vNH2H+d9iYHo9xnX4qDe7UalPe9HiGRkLw==",
+      "requires": {
+        "csstype": "^2.2.0"
+      }
     },
     "@types/react-dom": {
-      "version": "15.5.6",
-      "resolved": "https://registry.npmjs.org/@types/react-dom/-/react-dom-15.5.6.tgz",
-      "integrity": "sha512-dP4vEDEH4rL+uUl6f//c6mjepTVdJ6Ldx3z0dZbw047T5Z+o2PZDW/Qd+I4PkTmIgk7YNAZC/TFnm3IHT5UAhw==",
+      "version": "16.0.6",
+      "resolved": "https://registry.npmjs.org/@types/react-dom/-/react-dom-16.0.6.tgz",
+      "integrity": "sha512-M+1zmwa5KxUpkCuxA4whlDJKYTGNvNQW4pIoCLH16xGbClicD9CzPry4y94kTjCCk/bJZCZ/GVqUsP7eKcO/mQ==",
       "requires": {
-        "@types/react": "^15"
+        "@types/node": "*",
+        "@types/react": "*"
       }
     },
     "@types/requirejs": {
@@ -4293,6 +4351,11 @@
       "requires": {
         "cssom": "0.3.x"
       }
+    },
+    "csstype": {
+      "version": "2.6.8",
+      "resolved": "https://registry.npmjs.org/csstype/-/csstype-2.6.8.tgz",
+      "integrity": "sha512-msVS9qTuMT5zwAGCVm4mxfrZ18BNc6Csd0oJAtiFMZ1FAx1CCvy2+5MDmYoix63LM/6NDbNtodCiGYGmFgO0dA=="
     },
     "csurf": {
       "version": "1.8.3",

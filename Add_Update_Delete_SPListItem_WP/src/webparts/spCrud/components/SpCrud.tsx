@@ -8,7 +8,7 @@ import { confirmAlert } from 'react-confirm-alert';
 import Modal from 'react-awesome-modal';
 
 import 'react-confirm-alert/src/react-confirm-alert.css';
-import Item from '../../../../lib/webparts/spCrud/components/Item';
+
 
 
 export default class SpCrud extends React.Component<ISpCrudProps, ISpCrudState> {
